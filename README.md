@@ -107,8 +107,8 @@ Open for improvements and feedback
 ## 🤝 Connect with Me
 I’m currently learning Data Analytics and building real-world projects.
 
-LinkedIn: ()  
-GitHub: (Add your GitHub link)  
+LinkedIn: (https://www.linkedin.com/in/bhumika-kushwah-64ab3125a/)  
+GitHub: (https://github.com/Bhumika-kushwah)  
 
 ---
 
